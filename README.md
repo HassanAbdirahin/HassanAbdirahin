@@ -1,3 +1,7 @@
+
+[![Image](https://i.pinimg.com/originals/58/df/05/58df056e65e818e013fd7b576c8f2306.gif)](https://i.pinimg.com/originals/58/df/05/58df056e65e818e013fd7b576c8f2306.gif)
+
+
 # 💫 About Me:
 🚀 Software developer skilled in Python, Java, and JavaScript.<br>💡 Expertise in UI design and backend optimization.<br>🧠 Always learning and exploring new technologies.<br>👥 Let's collaborate and code something amazing together!
 
